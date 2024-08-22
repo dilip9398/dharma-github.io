@@ -1,0 +1,24 @@
+
+.portfolio-website-bg {
+    background-color: #191a1d;
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.portfolio-website-nav-text {
+    font-weight: bold;
+    font-size: 30px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #054cff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#homeSection{
+    background-image: url("https://i.pinimg.com/originals/4d/3a/8c/4d3a8ca3867ddbcde41a94655be3b415.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 50vh;
+    
+}
